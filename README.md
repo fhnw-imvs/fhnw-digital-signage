@@ -9,4 +9,4 @@ For setup instructions, see
 * [frontend/README.md](frontend/README.md)
 
 ## License
-This project is licensed under the MIT License, see [LICENSE](LICENCE).
+This project is licensed under the MIT License, see [LICENSE](LICENSE).
