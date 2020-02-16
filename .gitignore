@@ -127,3 +127,17 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#idea files
+.idea
+.gitignore
+.gitlab-ci.yml
+LICENSE
+README.md
+config/
+package-lock.json
+package.json
+public/
+scripts/
+src/frontend/
+yarn.lock
