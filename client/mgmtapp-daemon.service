@@ -1,0 +1,16 @@
+[Unit]
+Description=Mgmt App Daemon
+
+[Service]
+Type=simple
+User=pi
+WorkingDirectory=/usr/local/mgmt_app_client_extension
+ExecStart=/usr/bin/python3 /usr/local/mgmt_app_client_extension/mgmtapp-daemon.py
+KillMode=mixed
+Restart=always
+RestartSec=0.5
+StartLimitInterval=0
+Environment=DISPLAY=:0
+
+[Install]
+WantedBy=multi-user.target

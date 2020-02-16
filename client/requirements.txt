@@ -1,0 +1,4 @@
+jwt==0.6.1
+python-dotenv==0.10.3
+requests==2.22.0
+selenium==3.141.0
