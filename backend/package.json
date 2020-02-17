@@ -1,0 +1,48 @@
+{
+  "name": "mgmt_app_server_backend",
+  "version": "1.0.0",
+  "description": "Backend API for mgmt app",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node run.js development && nodemon server.js ",
+    "prod": "node run.js production",
+    "deploy": "node run.js deployment",
+    "test": "node run.js testAll"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitlab.fhnw.ch/ip5_imvs_25_hs19/mgmt_app_server_backend.git"
+  },
+  "author": "Alexander Weinbeck",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "latest",
+    "body-parser": "latest",
+    "core-js": "3.4.1",
+    "cors": "^2.8.5",
+    "crypto-js": "^3.1.9-1",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "express-favicon": "^2.0.1",
+    "express-validator": "^6.2.0",
+    "helmet": "^3.21.2",
+    "jsonwebtoken": "^8.5.1",
+    "mysql2": "^1.7.0",
+    "node-cache": "^4.2.1",
+    "npx": "^10.2.0",
+    "sequelize": "^5.21.2",
+    "sequelize-cli": "^5.5.1",
+    "swagger-jsdoc": "^3.4.0",
+    "swagger-ui-express": "^4.1.2",
+    "sys": "0.0.1",
+    "web-push": "^3.4.1"
+  },
+  "devDependencies": {
+    "esdoc": "^1.1.0",
+    "esdoc-standard-plugin": "^1.0.0",
+    "mocha": "^6.2.2",
+    "nodemon": "^1.19.4",
+    "supertest": "^4.0.2",
+    "cross-env": "^6.0.3"
+  }
+}
