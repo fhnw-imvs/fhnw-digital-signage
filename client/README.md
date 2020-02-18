@@ -1,7 +1,7 @@
 # mgmtapp client service
 
-## Install Raspbien on a Raspberry Pi 
-Please follow the official installation guide to install Raspbien on the Raspberry pi:
+## Install Raspbian on a Raspberry Pi 
+Please follow the official installation guide to install Raspbian on the Raspberry pi:
 https://www.raspberrypi.org/documentation/installation/installing-images/
 
 
