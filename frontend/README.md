@@ -1,9 +1,5 @@
-﻿# mgmt_app_server_frontend
-﻿
-﻿[![pipeline status](https://gitlab.fhnw.ch/ip5_imvs_25_hs19/mgmt_app_server_frontend/badges/master/pipeline.svg)](https://gitlab.fhnw.ch/ip5_imvs_25_hs19/mgmt_app_server_frontend/commits/master)
-﻿
-﻿[![coverage report](https://gitlab.fhnw.ch/ip5_imvs_25_hs19/mgmt_app_server_frontend/badges/master/coverage.svg)](https://gitlab.fhnw.ch/ip5_imvs_25_hs19/mgmt_app_server_frontend/commits/master)
-
+# Frontend
+The frontend provides a dashboard to remotely manage display clients.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
