@@ -1,7 +1,7 @@
 # Frontend
 The frontend provides a dashboard to remotely manage display clients.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This part of the application was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
