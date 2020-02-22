@@ -1,5 +1,5 @@
 # Client
-The client daemon runs on the display device, usually a Raspberyr Pi.
+A client daemon runs on each display device, usually a Raspberyr Pi.
 
 ## Install Raspbian on a Raspberry Pi 
 Please follow the official installation guide to install Raspbian on the Raspberry pi:
