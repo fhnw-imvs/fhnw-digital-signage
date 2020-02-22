@@ -1,4 +1,5 @@
-# Mgmt App - Server
+# Backend
+The backend (also referred to as server) provides an API accessed by display device clients.
 
 ## Getting Started
 
@@ -10,7 +11,10 @@ Docker
 **Get Source if not locally present**
 ```
 git clone <backend repository url>
-cd mgmt_app_server_frontend
+cd mgmt_app_
+
+
+_frontend
 git clone <frontend repository url>
 ```
 ## Deployment
